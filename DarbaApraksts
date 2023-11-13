@@ -1,2 +1,24 @@
 # Sabalansētas ēdienkartes plānošana
 
+Minimizēt ēdiena izmaksas, ņemot vērā cilvēkam ikdienā nepieciešamo produktu uzturvērtības ierobežojumus
+
+Ēdienkartes plānošana
+
+Ievaddati:
+- Cilvēka lietotāju raksturojošos lielumus - ķermeņa īpašības - augums, svars, citas īpašības
+- Uzturā lietotie pārtikas produkti un to svars
+- Produktu izmaksas
+
+
+– Ievada produktu uzturvielu vērtību
+– Ievada lietotāju raksturojošos lielumus
+– Ievada produktu izmaksas
+– Iespēja izvēlēties speciālos nosacījumus
+
+Algoritms optimizē ēdienkarti
+
+Grafiskais attēlojums:
+– Uzturvielu daudzums
+– Ēdienkarte
+
+1. Datu fails, kurā būs pārtikas uzturvielas
