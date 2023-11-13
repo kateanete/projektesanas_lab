@@ -9,4 +9,6 @@ https://docs.google.com/document/d/1rofnQeTpEBEpRV3bnLcyRr-q_a3wE2ZLhyKRSBW3WJY/
 |4|Yummly|https://www.yummly.com|Bezmaksas, pro versija 4.99$/mēnesī|Ēdienkartes plānošana, iespēja veikt iepirkumu tieši no lietotnes.
 |5| MyFitnessPal|https://www.myfitnesspal.com|Bezmaksas, ar papildu funkcijām MyFitnessPal premium 9.99$|Kaloriju skaitīšana, uztura un treniņu žurnāls
 |6|Spokin|https://www.spokin.com|Bezmaksas|Kopiena ar receptēm, pārtikas un restorānu rekomendācijām
-|7|RealPlans|
+|7|RealPlans|https://realplans.com|no 6$ mēnesī | Personalizētas ēdienkartes un veselīgas receptes
+|8|HappyCow|https://www.happycow.net|Bezmaksas, papildu funkcijas par maksu aptuveni $4.|Palīdz atrast vegāniem un veģetāriešiem draudzīgas vietas
+|9|FatSecret|https://www.fatsecret.com|Bezmaksas|Kaloriju skaitīšana un ēdienkartes izsekošana|Veidos produktu ieteikumus un to patērēšanas daudzumus balstoties no patērētā kaloriju skaita un alerģijām
