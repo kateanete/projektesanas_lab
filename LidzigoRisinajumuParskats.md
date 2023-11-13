@@ -1,0 +1,6 @@
+https://docs.google.com/document/d/1rofnQeTpEBEpRV3bnLcyRr-q_a3wE2ZLhyKRSBW3WJY/edit
+
+
+|Risinājums|Pozitīvās īipašības|Trūkumi|Komentāri|
+|-|-|-|-|
+| | | | | 
