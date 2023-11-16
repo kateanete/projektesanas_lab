@@ -1,3 +1,5 @@
+<div dir="rtl"> Autori: Dāvis Broks, Artūrs Ķeirāns, Kate Anete Jansone, Astra Godaine</div> 
+
 https://docs.google.com/document/d/1rofnQeTpEBEpRV3bnLcyRr-q_a3wE2ZLhyKRSBW3WJY/edit
 
 
