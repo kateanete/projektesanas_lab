@@ -7,4 +7,4 @@
 
 ![image](https://github.com/kateanete/projektesanas_lab/assets/78435396/8e3a574a-8622-45b1-a2c2-76ef389f8ecc)
 
-Mūsu ideja: Lietotājs ievdīs savas alerģijas un produktus, ko ikdienā lieto/gribētu lietot, un algoritms izvadīs alternatīvas atbilsltoši viņa alerģijām, kuros nav alergēnu, ko lietotājs nedrīkst/nevēlas lietot.
+Mūsu ideja: Lietotājs ievadīs savas alerģijas un produktus, ko ikdienā lieto/gribētu lietot, un algoritms izvadīs alternatīvas atbilstoši viņa alerģijām, kuros nav alergēnu, ko lietotājs nedrīkst/nevēlas lietot.
