@@ -16,8 +16,6 @@ Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā
 |7|RealPlans|https://realplans.com|no 6$ mēnesī | Personalizētas ēdienkartes un veselīgas receptes
 |8|HappyCow|https://www.happycow.net|Bezmaksas, papildu funkcijas par maksu aptuveni $4.|Palīdz atrast vegāniem un veģetāriešiem draudzīgas vietas|Būs iespēja pievienot alerģijas
 |9|FatSecret|https://www.fatsecret.com|Bezmaksas|Kaloriju skaitīšana un ēdienkartes izsekošana|Veidos produktu ieteikumus un to patērēšanas daudzumus balstoties no patērētā kaloriju skaita un alerģijām
-# Eksperimenta plāns
-![eksperimentaplans](https://github.com/kateanete/projektesanas_lab/assets/78435396/7e20b890-dec9-4ca5-a4d6-1522777f53f2)
 # Tehniskais risinājums
 ## Prasības
 | Nr	| Lietotāja stāsts 	| Prioritāte 	|
