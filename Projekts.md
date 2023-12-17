@@ -19,6 +19,7 @@ Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā
 # Tehniskais risinājums
 ## Prasības
 | Nr	| Lietotāja stāsts 	| Prioritāte 	|
+|--|----------------------|-------------|
 |1.| Lietotājs vēlas izveidot savu personīgo kontu, jo vēlas ievietot informāciju par savu uztura izvēli un alergēniem.	|------------	|
 |2.| Lietotājs vēlas norādīt savus alergēnus, jo vēlas, lai viņa ēdienreizēs tie nebūtu. | |
 |3.| Lietotājs vēlas izveidot dienas ēdienkarti, jo vēlas saplānot ēdienreizes. | | 
