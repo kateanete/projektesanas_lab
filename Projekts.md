@@ -22,14 +22,13 @@ Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā
 |--|----------------------|-------------|
 |1.| Lietotājs vēlas izveidot savu personīgo kontu, jo vēlas ievietot informāciju par savu uztura izvēli un alergēniem.	|M|
 |2.| Lietotājs vēlas norādīt savus alergēnus, jo vēlas, lai viņa ēdienreizēs tie nebūtu. |M|
-|3.| Lietotājs vēlas izveidot dienas ēdienkarti, jo vēlas saplānot ēdienreizes. |M| 
-|4.| Lietotājs vēlas optimizētu ēdienkarti, jo vēlas samazināt ēdienreižu izmaksas. |M| 
+|3.| Lietotājs vēlas izveidot dienas ēdienkarti, jo vēlas saplānot ēdienreizes. |S| 
+|4.| Lietotājs vēlas optimizētu ēdienkarti, jo vēlas samazināt ēdienreižu izmaksas. |C| 
 |5.| Lietotājs vēlas iestatīt ēdienreižu skaitu dienā un porciju lielumu, jo vēlas sekot savam uztura plānam. |S| 
 |6.| Lietotājs vēlas ievadīt savus alergēnus, jo lietotājs vēlas, lai lietotne piedāvātu lietotājam drošus ēdienus. |M| 
-|7.| Lietotājs vēlas iespēju jebkurā laikā atjaunot savu alergēnu sarakstu, jo lietotājs vēlas, lai ēdienkarte pēc iespējais precīzāk atbilst lietotāja uzturam.  |M| 
-|8.| Lietotājs vēlas detalizētu informāciju par katru ieteikto recepti, jo vēlas apskatīt sastāvdaļas, sagatavošanas darbības un uzturvērtības informāciju. |S| 
-|9.| Lietotājs vēlas redzēt sastāvdaļu alternetīvas, ja konkrēta sastāvdaļa ir alergēns, jo vēlas izvairītites no alergēniem. |S| 
-|10.| Lietotājs vēlas, lai lietotne paziņo, ja izvēlētā recepte satur kādu no alergēniem, jo vēlas izvairīties no alergēniem. |M|
+|7.| Lietotājs vēlas iespēju jebkurā laikā atjaunot savu alergēnu sarakstu, jo lietotājs vēlas, lai ēdienkarte pēc iespējas precīzāk atbilst lietotāja uzturam.  |M|  
+|8.| Lietotājs vēlas redzēt sastāvdaļu alternetīvas, ja konkrēta sastāvdaļa ir alergēns, jo vēlas izvairītites no alergēniem. |S| 
+|9.| Lietotājs vēlas, lai lietotne paziņo, ja izvēlētā recepte satur kādu no alergēniem, jo vēlas izvairīties no alergēniem. |M|
 
 ## Algoritms
 ## Konceptu modelis
