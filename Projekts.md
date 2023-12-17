@@ -19,8 +19,17 @@ Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā
 # Tehniskais risinājums
 ## Prasības
 | Nr	| Lietotāja stāsts 	| Prioritāte 	|
-|-----|------------------	|------------	|
-|1.| | |
+|1.| Lietotājs vēlas izveidot savu personīgo kontu, jo vēlas ievietot informāciju par savu uztura izvēli un alergēniem.	|------------	|
+|2.| Lietotājs vēlas norādīt savus alergēnus, jo vēlas, lai viņa ēdienreizēs tie nebūtu. | |
+|3.| Lietotājs vēlas izveidot dienas ēdienkarti, jo vēlas saplānot ēdienreizes. | | 
+|4.| Lietotājs vēlas optimizētu ēdienkarti, jo vēlas samazināt ēdienreižu izmaksas. | | 
+|5.| Lietotājs vēlas iestatīt ēdienreižu skaitu dienā un porciju lielumu, jo vēlas sekot savam uztura plānam. | | 
+|6.| Lietotājs vēlas ievadīt savus alergēnus, jo lietotājs vēlas, lai lietotne piedāvātu lietotājam drošus ēdienus. | | 
+|7.| Lietotājs vēlas iespēju jebkurā laikā atjaunot savu alergēnu sarakstu, jo lietotājs vēlas, lai ēdienkarte pēc iespējais precīzāk atbilst lietotāja uzturam.  | | 
+|8.| Lietotājs vēlas detalizētu informāciju par katru ieteikto recepti, jo vēlas apskatīt sastāvdaļas, sagatavošanas darbības un uzturvērtības informāciju. | | 
+|9.| Lietotājs vēlas redzēt sastāvdaļu alternetīvas, ja konkrēta sastāvdaļa ir alergēns, jo vēlas izvairītites no alergēniem. | | 
+|10.| Lietotājs vēlas, lai lietotne paziņo, ja izvēlētā recepte satur kādu no alergēniem, jo vēlas izvairīties no alergēniem. | |
+
 ## Algoritms
 ## Konceptu modelis
 ![konceptu modelis](https://github.com/kateanete/projektesanas_lab/assets/78435396/7c220181-dc8e-428b-9297-90fe2d929c9c)
