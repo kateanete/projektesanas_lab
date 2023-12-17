@@ -34,7 +34,7 @@ Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā
 ## Konceptu modelis
 ![konceptu modelis](https://github.com/kateanete/projektesanas_lab/assets/78435396/7c220181-dc8e-428b-9297-90fe2d929c9c)
 ## Tehnoloģiju steks
-![tehnologijusteks](https://github.com/kateanete/projektesanas_lab/assets/78435396/2a63e436-c3b5-499f-9c4a-69c4eb3e3ea4)
+![image](https://github.com/kateanete/projektesanas_lab/assets/78435396/e3356585-23d2-409d-9f2b-fe28d18f0348)
 ## Programmatūras apraksts
 # Novērtējums
 ## Novērtēšanas plāns
