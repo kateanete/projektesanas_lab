@@ -1,7 +1,7 @@
 # Ievads
-Projekta iecere: Cilvēks, kuram ir dažādas alerģijas, grib regulēt savu svaru. Viņam, iespējams, ir fitnesa aproce, kas skaita patērētas kalorijas, kam atbilstoši viņa augumam un citiem parametriem tiek pieskaitītas ikdienā iztērētās kalorijas. Šīs kalorijas nonāks lietotnē ar visu parējo cilvēka informāciju. Cilvēks ieliek, kādu ēdienu gatavojas ēst, piemēram, makaronus ar siera mērci , kopā 100gr makaronu, 50gr siera un 20gr saldā krējuma. Tā kā sierā ir alergēns piens, un, ja cilvēkam ir piena nepanesamība, mūsu lietotne ziņo un algoritms iedod alternatīvu, piemēram, "var piebērt bezlaktozes sieru un šajā ēdienreizē nevis 50 gramus, bet 30 gramus, tādējādi izvairoties no alerģijām un neuzņemot lieko svaru". Gramus aprēķina pēc uzturvielām produktos.
+Projekta iecere: Cilvēks, kuram ir dažādas alerģijas, grib regulēt savu svaru. Atbilstoši viņa augumam un citiem parametriem tiek aprēķinātas aptuvenais dienā patērējamo kaloriju skaits, lai nemainītu svaru. Papildus tam lietotājs ievada savas alerģijas, ja tādas ir. Lietotājs izvēlas vienu no trīs opcijām - samazināt/nemainīt/palielināt svaru, un atbilstoši dienā patērēto kaloriju skaitam un lietotāja alerģijām/produktiem, kas ir nevēlami, tiek izvadīta dienas ēdienkarte.
 ## Problēmas nostādne
-Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā un atrast alternatīvas saviem iemīļotajiem produktiem, no kuriem viņam ir alerģija.
+Cilvēks, kuram ir alerģija/-s, vēlas skaitīt kalorijas, uzturēt sevi formā un izmēģināt jaunus ēdienus, atrodot alternatīvas saviem iemīļotajiem produktiem, no kuriem viņam ir alerģija.
 ## Darba un novērtēšanas mērķis
 
 # Līdzīgo risinājumu pārskats
