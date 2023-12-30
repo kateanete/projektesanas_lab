@@ -35,7 +35,28 @@ def login():
 def logout():
     logout_user()
     return redirect(url_for("auth.login"))
+    
+@auth.route('/edienkarte')
+def edienkarte():
+    return render_template("edienkarte.html", boolean=False)
 
+@auth.route('/ievade',  methods=['GET', 'POST'])
+def ievade():
+    if request.method == 'POST':
+        garums = request.form.get('garums')
+        svars = request.form.get('svars')
+        kalorijas = request.form.get('kalorijas')
+        
+        if garums is '':
+            flash('Ievadiet garumu', category='error')
+        elif svars is '':
+            flash('Ievadiet svaru', category='error')
+        elif kalorijas is '':
+            flash('Ievadiet kaloriju daudzumu', category='error')
+        else:
+            flash ('Izmaiņas saglabātas, varat izveidot ēdienkarti.', category='success')
+
+    return render_template("ievade.html")
 
 @auth.route("/sign-up", methods=["GET", "POST"])
 def sign_up():
