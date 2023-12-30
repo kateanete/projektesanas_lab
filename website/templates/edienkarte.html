@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block title %}Ēdienkarte{% endblock %}
+
+{% block content %}
+<h1>Ēdienkartes veidošana</h1>
+
+<p>Izvēlieties vēlamo:</p>
+<input type="radio" id="less" name="weightcal" value = "less">
+<label for="less">Samazināt svaru</label><br>
+<input type="radio" id="same" name="weightcal" value="same">
+<label for="same">Nemainīt svaru</label><br>  
+<input type="radio" id="more"  name="weightcal"value="more" >
+<label for="same">Palielināt svaru</label><br><br>
+<input type="submit" value="Izvadīt ēdienkarti">
+
+
+{% endblock %}
