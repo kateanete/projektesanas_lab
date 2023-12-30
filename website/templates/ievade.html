@@ -1,0 +1,42 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content %}
+
+<form method="POST">
+    <h3 align="center">Ievadiet savus datus</h3>
+    <div class="form-group">
+      <label for="garums">Garums (cm)</label>
+      <input
+        type="number"
+        class="form-control"
+        id="garums"
+        name="garums"
+        placeholder="Ievadiet garumu"
+      />
+    </div>
+
+
+    <div class="form-group">
+        <label for="svars">Svars (kg)</label>
+        <input
+          type="number"
+          class="form-control"
+          id="svars"
+          name="svars"
+          placeholder="Ievadiet svaru"
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="kalorijas">Dienā patērētais kaloriju skaits</label>
+        <input
+          type="number"
+          class="form-control"
+          id="kalorijas"
+          name="kalorijas"
+          placeholder="Ievadiet kalorijas"
+        />
+      </div>
+
+      <br />
+      <button type="submit" class="btn btn-primary">Saglabāt</button>
+
+{% endblock %}
