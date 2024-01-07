@@ -1,5 +1,6 @@
-{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
-%}
+{% extends "base.html" %} 
+{% block title %}Home{% endblock %} 
+{% block content %}
 <h1 align="center">Notes</h1>
 <ul class="list-group list-group-flush" id="notes">
   {% for note in user.notes %}
@@ -11,24 +12,27 @@
   </li>
   {% endfor %}
 </ul>
+
 <form method="POST">
+  <input type="text" name="search" id="search" class="form-control" placeholder="Search for food">
   <textarea name="note" id="note" class="form-control"></textarea>
   <br />
   <div align="center">
-    <button type="submit" class="btn btn-primary">Add Note</button>
+    <button type="submit" class="btn btn-primary">Add Note / Search</button>
   </div>
 </form>
+
+{% if search_food %}
+<h2>Search Results:</h2>
+<ul>
+  {% for food in search_food %}
+  <li>
+    <strong>Product:</strong> {{ food.product }}<br>
+    <strong>Allergies:</strong> {{ food.allergies }}<br>
+    <strong>Calories per 100 grams:</strong> {{ food.kcal_per_100gr }}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 {% endblock %}
-
-
-<!-- 
-{% extends "base.html" %} {% block title %}Sākumlapa{% endblock %}
-
-{% block content %}
-<h1>Lietotāja dati:</h1>
-</br>
-<!--šeit no DB dati par lietotāju--> 
-
-<button onclick="document.location='edienkarte'">Izveidot ēdienkarti</button>
-
-{% endblock %} -->
