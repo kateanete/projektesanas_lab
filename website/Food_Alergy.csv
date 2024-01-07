@@ -1,0 +1,259 @@
+Food Product,Dish time,Allergens,Allergies,Kcal/100gr
+Almond Cookies,"Lunch, Dinner","Almonds, Wheat, Dairy","Tree Nut Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",500
+Cheddar Cheese,"Lunch, Dinner",Dairy,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",400
+Ranch Dressing,Dessert,Dairy,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",400
+Caramel Popcorn,"Lunch, Dinner",Dairy,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",375
+Caesar Wrap,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",250
+Cheese Pizza,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",270
+Mashed Potatoes,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",90
+Berry Smoothie,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",55
+Caesar Salad,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",160
+Chicken Alfredo,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",130
+Pesto Pizza,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",280
+Banana Smoothie,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",60
+Watermelon Salad,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",30
+Mango Lassi,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",80
+Greek Gyro Wrap,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",300
+Spinach and Feta Stuffed Chicken,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Chicken Fettuccine Alfredo,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",145
+Caprese Sandwich,Lunch,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",150
+Greek Yogurt Parfait,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",100
+Eggplant Parmesan,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Banana Pudding,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",180
+Margherita Pizza,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",260
+Chicken Caesar Wrap,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",220
+Greek Spanakopita,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",220
+Mushroom Soup,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",50
+Greek Yogurt,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",60
+Mushroom and Goat Cheese Flatbread,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",250
+Margherita Pasta,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",150
+Pumpkin Soup,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",45
+Butternut Squash Soup,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",45
+Caprese Skewers,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",180
+Berry Parfait,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",120
+Spinach Artichoke Dip,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Stuffed Portobello Mushrooms,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",90
+Caprese Salad,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",140
+Beef Stroganoff,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",160
+Strawberry Smoothie,Breakfast,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",45
+Baked Garlic Parmesan Chicken,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",220
+Butter Chicken,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",190
+Palak Paneer,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",190
+Tandoori Chicken,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",250
+Paneer Tikka,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",260
+Dal Makhani,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",130
+Malai Kofta,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",250
+Malai Chicken Tikka,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",220
+Dahi Vada,"Breakfast, Lunch",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",130
+Chicken Malai Tikka,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",220
+Matar Paneer,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",190
+Rasgulla,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",300
+Rabri,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",230
+Chicken Korma,"Lunch, Dinner",Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",175
+Gulab Jamun,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",300
+Rogan Josh,Dinner,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",190
+Kheer,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Rasmalai,Dessert,Dairy,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",250
+Chocolate Mousse,Dessert,"Dairy, Cocoa","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Cocoa Allergy",350
+Quiche Lorraine,"Lunch, Dinner","Dairy, Eggs","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Egg Allergy",250
+Chicken Piccata,"Lunch, Dinner","Dairy, Fish","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Fish Allergy",175
+Chicken Tikka Masala,"Lunch, Dinner","Dairy, Ghee","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Ghee Intolerance",220
+Sweet Potato Casserole,"Lunch, Dinner","Dairy, Nuts","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Tree Nut Allergy",120
+Baked Brie,"Lunch, Dinner","Dairy, Nuts","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Tree Nut Allergy",300
+Greek Gyro,"Lunch, Dinner","Dairy, Wheat","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",120
+French Onion Soup,"Lunch, Dinner","Dairy, Wheat","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",50
+Omelette,Breakfast,Eggs,Egg Allergy,150
+Egg Salad,Breakfast,Eggs,Egg Allergy,160
+Quiche,"Breakfast, Lunch","Eggs, Dairy","Egg Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Egg Salad Sandwich,"Breakfast, Lunch","Eggs, Mustard","Egg Allergy, Mustard Allergy",180
+Egg Fried Rice,"Lunch, Dinner","Eggs, Soybeans","Egg Allergy, Soy Allergy",90
+Fish Sticks,"Lunch, Dinner",Fish,Fish Allergy,200
+Lemon Dill Salmon,"Lunch, Dinner",Fish,Fish Allergy,170
+Baked Salmon,"Lunch, Dinner",Fish,Fish Allergy,190
+Malabar Fish Curry,"Lunch, Dinner","Fish, Coconut","Fish Allergy, Coconut Allergy",105
+Baked Cod,"Lunch, Dinner","Fish, Dairy","Fish Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",190
+Tuna Sandwich,Lunch,"Fish, Eggs","Fish Allergy, Egg Allergy",130
+Tuna Salad,Lunch,"Fish, Eggs","Fish Allergy, Egg Allergy",150
+Sushi,"Lunch, Dinner","Fish, Soybeans","Fish Allergy, Soy Allergy",180
+Teriyaki Salmon,"Lunch, Dinner","Fish, Soybeans","Fish Allergy, Soy Allergy",180
+Sushi Bowl,"Lunch, Dinner","Fish, Soybeans","Fish Allergy, Soy Allergy",190
+Honey Soy Glazed Salmon,"Lunch, Dinner","Fish, Soybeans","Fish Allergy, Soy Allergy",210
+Milk Chocolate,Dessert,Milk,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",545
+Vanilla Ice Cream,Dessert,Milk,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",207
+Vanilla Yogurt,Breakfast,Milk,"Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",59
+Strawberry Yogurt,Breakfast,"Milk, Strawberries","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Strawberry Allergy",90
+Tomato Soup,"Lunch, Dinner",None,,40
+Apple,"Breakfast, Lunch, Dinner",None,,52
+Orange Juice,"Breakfast, Lunch, Dinner",None,,45
+Greek Salad,"Lunch, Dinner",None,,120
+Spaghetti Bolognese,"Lunch, Dinner",None,,130
+BBQ Ribs,"Lunch, Dinner",None,,300
+Beef Burger,"Lunch, Dinner",None,,250
+French Fries,"Lunch, Dinner",None,,312
+Lemonade,Dessert,None,,50
+Gazpacho,"Lunch, Dinner",None,,42
+Pesto Pasta,"Lunch, Dinner",None,,180
+Chicken Stir-Fry,"Lunch, Dinner",None,,90
+Veggie Burger,"Lunch, Dinner",None,,190
+Vegetable Soup,"Lunch, Dinner",None,,65
+Minestrone Soup,"Lunch, Dinner",None,,70
+Lemon Garlic Chicken,"Lunch, Dinner",None,,150
+Pancetta Pasta,"Lunch, Dinner",None,,130
+Spinach Stuffed Chicken,"Lunch, Dinner",None,,190
+Coconut Curry,"Lunch, Dinner",None,,180
+Apple Cider,Dessert,None,,46
+Black Bean Soup,"Lunch, Dinner",None,,90
+Fruit Salad,"Breakfast, Lunch, Dinner",None,,70
+Sausage Pizza,"Lunch, Dinner",None,,260
+Lentil Curry,"Lunch, Dinner",None,,130
+Green Smoothie,"Breakfast, Lunch, Dinner",None,,40
+Beef and Broccoli,"Lunch, Dinner",None,,150
+Cabbage Rolls,"Lunch, Dinner",None,,90
+Caramel Apple,Dessert,None,,215
+Sweet Potato Fries,"Lunch, Dinner",None,,150
+Beef Chili,"Lunch, Dinner",None,,125
+Stuffed Mushrooms,"Lunch, Dinner",None,,90
+Zucchini Noodles,"Lunch, Dinner",None,,18
+Sweet and Sour Chicken,"Lunch, Dinner",None,,195
+Beef Kabobs,"Lunch, Dinner",None,,180
+Tomato Bruschetta,"Lunch, Dinner",None,,30
+Quinoa Stuffed Peppers,"Lunch, Dinner",None,,120
+Veggie Omelette,Breakfast,None,,154
+Beef Tacos,"Lunch, Dinner",None,,226
+Quinoa Salad,"Lunch, Dinner",None,,120
+Vegetable Stir-Fry,"Lunch, Dinner",None,,90
+Buffalo Wings,"Lunch, Dinner",None,,290
+Lentil Soup,"Lunch, Dinner",None,,115
+Stuffed Cabbage Rolls,"Lunch, Dinner",None,,90
+Orange Chicken,"Lunch, Dinner",None,,220
+Honey Mustard Chicken,"Lunch, Dinner",None,,190
+Lentil Salad,"Lunch, Dinner",None,,130
+Cilantro Lime Chicken,"Lunch, Dinner",None,,150
+Ratatouille Pizza,"Lunch, Dinner",None,,266
+Avocado Toast,Breakfast,None,,250
+Lemon Pepper Chicken,"Lunch, Dinner",None,,150
+Chicken Shawarma,"Lunch, Dinner",None,,120
+Lemon Herb Roasted Chicken,"Lunch, Dinner",None,,190
+Greek Lemon Chicken,"Lunch, Dinner",None,,90
+Roasted Brussels Sprouts,"Lunch, Dinner",None,,215
+Beef Burritos,"Lunch, Dinner",None,,130
+Raspberry Spinach Salad,"Lunch, Dinner",None,,65
+Chicken and Rice Soup,"Lunch, Dinner",None,,65
+Chicken Fajitas,"Lunch, Dinner",None,,180
+Vegetable Curry,"Lunch, Dinner",None,,80
+Ratatouille,"Lunch, Dinner",None,,70
+Pesto Pasta Salad,"Lunch, Dinner",None,,150
+Beef and Mushroom Stir-Fry,"Lunch, Dinner",None,,150
+Tofu Curry,"Lunch, Dinner",None,,90
+Stuffed Bell Peppers,"Lunch, Dinner",None,,130
+Greek Moussaka,"Lunch, Dinner",None,,160
+Brussels Sprouts,"Lunch, Dinner",None,,35
+Baked Chicken Wings,"Lunch, Dinner",None,,290
+Mango Coconut Popsicles,Dessert,None,,150
+Ratatouille Pasta,"Lunch, Dinner",None,,85
+Chicken Noodle Soup,"Lunch, Dinner",None,,65
+Mango Salsa,"Lunch, Dinner",None,,60
+Spinach Salad,"Lunch, Dinner",None,,45
+Caramelized Onions,"Lunch, Dinner",None,,150
+Beef Stir-Fry,"Lunch, Dinner",None,,190
+Strawberry Spinach Salad,"Lunch, Dinner",None,,45
+Ratatouille Tart,"Lunch, Dinner",None,,100
+Honey Glazed Carrots,"Lunch, Dinner",None,,90
+Cucumber Salad,"Lunch, Dinner",None,,15
+Greek Lemon Potatoes,"Lunch, Dinner",None,,75
+Stuffed Tomatoes,"Lunch, Dinner",None,,100
+Biryani,"Lunch, Dinner",None,,130
+Chole Bhature,"Breakfast, Lunch",None,,275
+Masala Dosa,"Breakfast, Lunch",None,,220
+Samosa,"Breakfast, Lunch, Dinner",None,,290
+Aloo Gobi,"Lunch, Dinner",None,,160
+Vada Pav,"Lunch, Dinner",None,,250
+Pani Puri,"Lunch, Dinner",None,,150
+Rajma Chawal,"Lunch, Dinner",None,,120
+Vegetable Biryani,"Lunch, Dinner",None,,130
+Chana Masala,"Lunch, Dinner",None,,130
+Paniyaram,"Lunch, Dinner",None,,190
+Chicken Biryani,"Lunch, Dinner",None,,165
+Pav Bhaji,"Lunch, Dinner",None,,180
+Hyderabadi Biryani,"Lunch, Dinner",None,,175
+Chicken Curry,"Breakfast, Lunch",None,,190
+Dosa,"Lunch, Dinner",None,,160
+Chole Kulche,"Lunch, Dinner",None,,250
+Gobi Manchurian,"Lunch, Dinner",None,,160
+Mutton Biryani,"Lunch, Dinner",None,,200
+Oatmeal,Breakfast,"Oats, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",70
+Peanut Butter,"Breakfast, Snack",Peanuts,Peanut Allergy,590
+Chicken Satay,"Lunch, Dinner",Peanuts,Peanut Allergy,290
+Zucchini Noodles with Pesto,"Lunch, Dinner","Pine nuts, Dairy","Pine Nut Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",20
+Pesto Chicken,"Lunch, Dinner","Pine nuts, Dairy","Pine Nut Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",290
+Rice Pudding,Dessert,"Rice, Dairy","Rice Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Shrimp Scampi Pasta,"Lunch, Dinner",Shellfish,Shellfish Allergy,195
+Garlic Shrimp,"Lunch, Dinner",Shellfish,Shellfish Allergy,150
+Lemon Garlic Shrimp,"Lunch, Dinner",Shellfish,Shellfish Allergy,150
+Prawn Biryani,"Lunch, Dinner",Shellfish,Shellfish Allergy,170
+Shrimp Scampi,"Lunch, Dinner","Shellfish, Dairy",Shellfish Allergy,195
+Lobster Bisque,"Lunch, Dinner","Shellfish, Dairy","Shellfish Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",170
+Caesar Shrimp Skewers,"Lunch, Dinner","Shellfish, Dairy","Shellfish Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",225
+Prawn Curry,"Lunch, Dinner","Shellfish, Dairy","Shellfish Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",175
+Lobster Roll,"Lunch, Dinner","Shellfish, Eggs","Shellfish Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy",200
+Bacon-Wrapped Shrimp,"Lunch, Dinner","Shellfish, Pork","Shellfish Allergy, Egg Allergy",225
+Shrimp Fried Rice,"Lunch, Dinner","Shellfish, Soybeans","Shellfish Allergy, Pork Allergy",150
+Soy Milk,"Breakfast, Snack",Soybeans,"Shellfish Allergy, Soy Allergy",54
+Miso Soup,"Lunch, Dinner",Soybeans,Soy Allergy,35
+Tofu Scramble,Breakfast,Soybeans,Soy Allergy,100
+Chicken Teriyaki,"Lunch, Dinner",Soybeans,Soy Allergy,189
+Tofu Stir-Fry,"Lunch, Dinner",Soybeans,Soy Allergy,90
+Teriyaki Beef,"Lunch, Dinner",Soybeans,Soy Allergy,192
+Sushi Rolls,"Lunch, Dinner","Soybeans, Fish","Soy Allergy, Fish Allergy",130
+Wheat Bread,"Breakfast, Snack",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",246
+Chicken Noodle Casserole,"Lunch, Dinner",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",130
+Onion Rings,"Lunch, Dinner",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",290
+Chicken Pot Pie,"Lunch, Dinner",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",165
+Grilled Portobello Mushroom Burger,"Lunch, Dinner",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",89
+Aloo Paratha,"Breakfast, Lunch",Wheat,"Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",290
+Pancakes,Breakfast,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",227
+Carrot Cake,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",356
+Chocolate Chip Cookies,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",488
+Mushroom Risotto,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",92
+Pineapple Upside-Down Cake,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",362
+Vanilla Cupcakes,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",388
+Pasta Carbonara,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",131
+Mixed Berry Pie,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",237
+Berry Cobbler,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",200
+Key Lime Pie,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",268
+Chicken Quesadilla,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",216
+Pancake Stack,Breakfast,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",227
+Strawberry Shortcake,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",192
+Berry Crumble,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",198
+Raspberry Cheesecake,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",321
+Blueberry Pancakes,Breakfast,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",227
+Oatmeal Raisin Cookies,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",398
+Baked Ziti,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",130
+Lemon Poppy Seed Muffins,Breakfast,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",340
+Apple Crisp,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",160
+Chicken Enchiladas,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",200
+Caesar Salad Wrap,Lunch,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",250
+S'mores,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",360
+Cinnamon Rolls,"Breakfast, Dessert","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",330
+Chicken Caesar Salad,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",120
+Vegetable Lasagna,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",130
+Garlic Bread,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",350
+Chicken Alfredo Pizza,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",250
+Caesar Pasta Salad,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",130
+Baked Apple,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",90
+Apple Pie,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",237
+Chicken Parmesan,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",220
+Pumpkin Pie,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",243
+Blueberry Muffins,Breakfast,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",280
+Sausage and Pepper Pizza,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",260
+Beef Wellington,Dinner,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",250
+Jalebi,Dessert,"Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",300
+Butter Naan,"Lunch, Dinner","Wheat, Dairy","Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy",320
+Tiramisu,Dessert,"Wheat, Dairy, Alcohol","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Alcohol Allergy",270
+Chocolate Cake,Dessert,"Wheat, Dairy, Cocoa","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Cocoa Allergy",358
+Chocolate Chip Pancakes,Breakfast,"Wheat, Dairy, Cocoa","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Cocoa Allergy",350
+Lemon Bars,Dessert,"Wheat, Dairy, Eggs","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Egg Allergy",367
+Pecan Pie,Dessert,"Wheat, Dairy, Nuts","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Tree Nut Allergy",360
+Zucchini Bread,"Breakfast, Dessert","Wheat, Dairy, Nuts","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Tree Nut Allergy",320
+Banana Bread,"Breakfast, Dessert","Wheat, Dairy, Nuts","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Tree Nut Allergy",330
+Hawaiian Pizza,"Lunch, Dinner","Wheat, Pork, Dairy","Celiac Disease, Non-Celiac Gluten Sensitivity, Wheat Allergy, Lactose Intolerance, Cow's Milk Allergy, Casein Allergy, Pork Allergy",250
